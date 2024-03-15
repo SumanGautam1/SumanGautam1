@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **django framework.**
+- 🌱 I’m currently learning **Django framework.**
 
-- 👯 I’m looking to collaborate on **projects related to frontend and machile learning.**
+- 👯 I’m looking to collaborate on **projects related to frontend and machine learning.**
 
 - 🤝 I’m looking for help with **backend projects.**
 
-- 💬 Ask me about **Python, SQL, HTML, CSS.**
+- 💬 Ask me about **Python, Django, SQL, HTML, CSS.**
 
 - 📫 How to reach me **gautamsuman822@gmail.com**
 
