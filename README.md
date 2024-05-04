@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django framework.**
 
-- 👯 I’m looking to collaborate on **projects related to frontend and machine learning.**
+- 👯 I’m looking to collaborate on **projects related to web development and machine learning.**
 
 - 🤝 I’m looking for help with **backend projects.**
 
