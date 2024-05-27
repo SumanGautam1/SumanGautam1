@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **backend projects.**
 
-- 💬 Ask me about **Python, Django, SQL, HTML, CSS.**
+- 💬 Ask me about **Python, Django, SQL, HTML, CSS, JS.**
 
 - 📫 How to reach me **gautamsuman822@gmail.com**
 
