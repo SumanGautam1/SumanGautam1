@@ -2,11 +2,11 @@
 <h3 align="center">A passionate fullstack web developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **projects related to web development and machine learning.**
 
-- 💬 Ask me about **Python, Django, SQL, HTML, CSS, JS.**
+- 💬 Ask me about **Python, Django, SQL, HTML, CSS, JS, React.JS .**
 
 - 📫 How to reach me **gautamsuman822@gmail.com**
 
